@@ -1,10 +1,7 @@
 <div id="top"></div>
 
-
-[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![GNU GENERAL PUBLIC LICENSE][license-shield]][license-url]
 
 
